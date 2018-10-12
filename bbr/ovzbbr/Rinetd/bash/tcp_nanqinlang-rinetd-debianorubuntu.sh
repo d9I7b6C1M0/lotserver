@@ -49,7 +49,7 @@ directory(){
 }
 
 download(){
-	wget https://github.com/d9I7b6C1M0/Linux-NetSpeed/blob/master/bbr/ovzbbr/Rinetd/module/rinetd
+	wget https://raw.githubusercontent.com/d9I7b6C1M0/Linux-NetSpeed/master/bbr/ovzbbr/Rinetd/module/rinetd
 	chmod +x rinetd
 }
 
